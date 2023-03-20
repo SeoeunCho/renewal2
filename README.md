@@ -8,6 +8,6 @@ Overview까지 제작했습니다.<br>
 기획/디자인/퍼블리싱 : 개인작업100%
 작업기간 : 14일
 
-바로가기! ➡ https://westsilver24.github.io/renewal2/
+바로가기! ➡ https://seoeuncho.github.io/renewal2/
 
-앱제작과정 : https://westsilver24.github.io/renewal2_process/
+앱제작과정 : https://seoeuncho.github.io/renewal2_process/
