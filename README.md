@@ -21,8 +21,7 @@
 
 
 ## 사용 스택
-- HTML
-- CSS
+- HTML/CSS
 - jQuery
 <br>
 
