@@ -13,9 +13,10 @@
 
 ## 정보
 - 이 프로젝트는 [에스쁘아](https://www.espoir.com/ko/main.do)사이트를 기반으로 리뉴얼 제작하였습니다.
-- 디자인은 [국민건강보험공단](https://www.nhis.or.kr/)사이트를 참고했습니다.
-- HTML, CSS 작업에 익숙해지기 위해 이 프로젝트를 시작했습니다.
-- 이미지 슬라이드 애니메이션에 jQuery라이브러리 bxslider를 사용하였습니다.
+- 디자인은 [빙그레tft몰](https://www.tftmall.co.kr/), [CHICOR](https://chicor.com/main)사이트를 참고했습니다.
+- HTML, CSS, jQuery 에 익숙해지기 위해 이 프로젝트를 시작했습니다.
+- 메인 이미지 슬라이드 애니메이션에 jQuery라이브러리 bxslider를 사용하였습니다.
+- jQuery로 언어선택 메뉴, 서브메뉴, 스크롤탑을 구현했습니다.
 <br>
 
 
