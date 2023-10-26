@@ -1,5 +1,5 @@
 # renewal2
-![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/gcimed_web01.png?raw=true)<br>
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/espoir01.png?raw=true)<br>
 
 두 번째로 제작한 웹사이트입니다. 💄'에스쁘아' 사이트를 리뉴얼했습니다.<br>
 : 에스쁘아의 웹사이트를 통해 제품의 광고효과와 수익창출을 높일 수 있도록 리뉴얼한 작업물입니다. 다양한 상품을 섹션별로 배치하였으며 장바구니/구매/찜하기 아이콘을 배치하였습니다. Overview까지 제작했습니다.<br>
@@ -28,9 +28,6 @@
 
 
 ## Screenshots
-![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/gcimed_web02.png?raw=true)
-<div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile01.png" alt="image" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile02.png" alt="image" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile03.png" alt="image" width="32%" height="auto">
-</div>
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/espoir01.png?raw=true)
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/espoir02.png?raw=true)
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/espoir03.png?raw=true)
